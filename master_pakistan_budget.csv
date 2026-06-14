@@ -1,0 +1,193 @@
+Year,Province,City,Sector,Budget_Millions_PKR
+2023-24,Punjab,Lahore,Education,148203.75
+2023-24,Punjab,Lahore,Health,149848.29
+2023-24,Punjab,Lahore,Agriculture,123538.59
+2023-24,Punjab,Lahore,Construction & Transport,152895.24
+2023-24,Punjab,Faisalabad,Education,138108.06
+2023-24,Punjab,Faisalabad,Health,118377.38
+2023-24,Punjab,Faisalabad,Agriculture,100187.6
+2023-24,Punjab,Faisalabad,Construction & Transport,164813.15
+2023-24,Punjab,Rawalpindi,Education,158671.51
+2023-24,Punjab,Rawalpindi,Health,140239.67
+2023-24,Punjab,Rawalpindi,Agriculture,98888.25
+2023-24,Punjab,Rawalpindi,Construction & Transport,169434.48
+2023-24,Punjab,Multan,Education,169358.85
+2023-24,Punjab,Multan,Health,120608.63
+2023-24,Punjab,Multan,Agriculture,104475.24
+2023-24,Punjab,Multan,Construction & Transport,134395.67
+2023-24,Sindh,Karachi,Education,79066.9
+2023-24,Sindh,Karachi,Health,72534.74
+2023-24,Sindh,Karachi,Agriculture,61713.76
+2023-24,Sindh,Karachi,Construction & Transport,75926.87
+2023-24,Sindh,Hyderabad,Education,86818.69
+2023-24,Sindh,Hyderabad,Health,64213.07
+2023-24,Sindh,Hyderabad,Agriculture,59071.53
+2023-24,Sindh,Hyderabad,Construction & Transport,77752.59
+2023-24,Sindh,Sukkur,Education,82892.96
+2023-24,Sindh,Sukkur,Health,78159.8
+2023-24,Sindh,Sukkur,Agriculture,57323.83
+2023-24,Sindh,Sukkur,Construction & Transport,81345.9
+2023-24,Sindh,Larkana,Education,86328.85
+2023-24,Sindh,Larkana,Health,62203.33
+2023-24,Sindh,Larkana,Agriculture,65032.6
+2023-24,Sindh,Larkana,Construction & Transport,72993.74
+2023-24,Khyber Pakhtunkhwa,Peshawar,Education,51736.17
+2023-24,Khyber Pakhtunkhwa,Peshawar,Health,57867.95
+2023-24,Khyber Pakhtunkhwa,Peshawar,Agriculture,50858.65
+2023-24,Khyber Pakhtunkhwa,Peshawar,Construction & Transport,62683.29
+2023-24,Khyber Pakhtunkhwa,Mardan,Education,56012.36
+2023-24,Khyber Pakhtunkhwa,Mardan,Health,44844.38
+2023-24,Khyber Pakhtunkhwa,Mardan,Agriculture,47091.42
+2023-24,Khyber Pakhtunkhwa,Mardan,Construction & Transport,56344.87
+2023-24,Khyber Pakhtunkhwa,Swat,Education,52753.38
+2023-24,Khyber Pakhtunkhwa,Swat,Health,50926.21
+2023-24,Khyber Pakhtunkhwa,Swat,Agriculture,38391.63
+2023-24,Khyber Pakhtunkhwa,Swat,Construction & Transport,64420.43
+2023-24,Khyber Pakhtunkhwa,Abbottabad,Education,55194.22
+2023-24,Khyber Pakhtunkhwa,Abbottabad,Health,53486.59
+2023-24,Khyber Pakhtunkhwa,Abbottabad,Agriculture,42104.28
+2023-24,Khyber Pakhtunkhwa,Abbottabad,Construction & Transport,57720.42
+2023-24,Balochistan,Quetta,Education,31941.41
+2023-24,Balochistan,Quetta,Health,24447.32
+2023-24,Balochistan,Quetta,Agriculture,26953.18
+2023-24,Balochistan,Quetta,Construction & Transport,32882.15
+2023-24,Balochistan,Gwadar,Education,35653.26
+2023-24,Balochistan,Gwadar,Health,30198.1
+2023-24,Balochistan,Gwadar,Agriculture,24318.87
+2023-24,Balochistan,Gwadar,Construction & Transport,34219.33
+2023-24,Balochistan,Khuzdar,Education,27611.25
+2023-24,Balochistan,Khuzdar,Health,24537.46
+2023-24,Balochistan,Khuzdar,Agriculture,20401.8
+2023-24,Balochistan,Khuzdar,Construction & Transport,28783.32
+2023-24,Balochistan,Sibi,Education,30448.0
+2023-24,Balochistan,Sibi,Health,25147.93
+2023-24,Balochistan,Sibi,Agriculture,25954.93
+2023-24,Balochistan,Sibi,Construction & Transport,29069.66
+2024-25,Punjab,Lahore,Education,185254.69
+2024-25,Punjab,Lahore,Health,187310.36
+2024-25,Punjab,Lahore,Agriculture,154423.24
+2024-25,Punjab,Lahore,Construction & Transport,191119.04
+2024-25,Punjab,Faisalabad,Education,172635.08
+2024-25,Punjab,Faisalabad,Health,147971.73
+2024-25,Punjab,Faisalabad,Agriculture,125234.5
+2024-25,Punjab,Faisalabad,Construction & Transport,206016.43
+2024-25,Punjab,Rawalpindi,Education,198339.39
+2024-25,Punjab,Rawalpindi,Health,175299.59
+2024-25,Punjab,Rawalpindi,Agriculture,123610.32
+2024-25,Punjab,Rawalpindi,Construction & Transport,211793.1
+2024-25,Punjab,Multan,Education,211698.56
+2024-25,Punjab,Multan,Health,150760.79
+2024-25,Punjab,Multan,Agriculture,130594.04
+2024-25,Punjab,Multan,Construction & Transport,167994.59
+2024-25,Sindh,Karachi,Education,98833.63
+2024-25,Sindh,Karachi,Health,90668.42
+2024-25,Sindh,Karachi,Agriculture,77142.2
+2024-25,Sindh,Karachi,Construction & Transport,94908.59
+2024-25,Sindh,Hyderabad,Education,108523.37
+2024-25,Sindh,Hyderabad,Health,80266.33
+2024-25,Sindh,Hyderabad,Agriculture,73839.42
+2024-25,Sindh,Hyderabad,Construction & Transport,97190.74
+2024-25,Sindh,Sukkur,Education,103616.2
+2024-25,Sindh,Sukkur,Health,97699.75
+2024-25,Sindh,Sukkur,Agriculture,71654.79
+2024-25,Sindh,Sukkur,Construction & Transport,101682.37
+2024-25,Sindh,Larkana,Education,107911.06
+2024-25,Sindh,Larkana,Health,77754.16
+2024-25,Sindh,Larkana,Agriculture,81290.75
+2024-25,Sindh,Larkana,Construction & Transport,91242.17
+2024-25,Khyber Pakhtunkhwa,Peshawar,Education,64670.21
+2024-25,Khyber Pakhtunkhwa,Peshawar,Health,72334.94
+2024-25,Khyber Pakhtunkhwa,Peshawar,Agriculture,63573.31
+2024-25,Khyber Pakhtunkhwa,Peshawar,Construction & Transport,78354.11
+2024-25,Khyber Pakhtunkhwa,Mardan,Education,70015.44
+2024-25,Khyber Pakhtunkhwa,Mardan,Health,56055.48
+2024-25,Khyber Pakhtunkhwa,Mardan,Agriculture,58864.27
+2024-25,Khyber Pakhtunkhwa,Mardan,Construction & Transport,70431.09
+2024-25,Khyber Pakhtunkhwa,Swat,Education,65941.73
+2024-25,Khyber Pakhtunkhwa,Swat,Health,63657.76
+2024-25,Khyber Pakhtunkhwa,Swat,Agriculture,47989.53
+2024-25,Khyber Pakhtunkhwa,Swat,Construction & Transport,80525.53
+2024-25,Khyber Pakhtunkhwa,Abbottabad,Education,68992.78
+2024-25,Khyber Pakhtunkhwa,Abbottabad,Health,66858.24
+2024-25,Khyber Pakhtunkhwa,Abbottabad,Agriculture,52630.35
+2024-25,Khyber Pakhtunkhwa,Abbottabad,Construction & Transport,72150.53
+2024-25,Balochistan,Quetta,Education,39926.77
+2024-25,Balochistan,Quetta,Health,30559.15
+2024-25,Balochistan,Quetta,Agriculture,33691.48
+2024-25,Balochistan,Quetta,Construction & Transport,41102.68
+2024-25,Balochistan,Gwadar,Education,44566.58
+2024-25,Balochistan,Gwadar,Health,37747.63
+2024-25,Balochistan,Gwadar,Agriculture,30398.58
+2024-25,Balochistan,Gwadar,Construction & Transport,42774.16
+2024-25,Balochistan,Khuzdar,Education,34514.07
+2024-25,Balochistan,Khuzdar,Health,30671.83
+2024-25,Balochistan,Khuzdar,Agriculture,25502.25
+2024-25,Balochistan,Khuzdar,Construction & Transport,35979.15
+2024-25,Balochistan,Sibi,Education,38060.0
+2024-25,Balochistan,Sibi,Health,31434.91
+2024-25,Balochistan,Sibi,Agriculture,32443.66
+2024-25,Balochistan,Sibi,Construction & Transport,36337.08
+2025-26,Punjab,Lahore,Education,219341.56
+2025-26,Punjab,Lahore,Health,221775.46
+2025-26,Punjab,Lahore,Agriculture,182837.11
+2025-26,Punjab,Lahore,Construction & Transport,226284.95
+2025-26,Punjab,Faisalabad,Education,204399.93
+2025-26,Punjab,Faisalabad,Health,175198.53
+2025-26,Punjab,Faisalabad,Agriculture,148277.64
+2025-26,Punjab,Faisalabad,Construction & Transport,243923.46
+2025-26,Punjab,Rawalpindi,Education,234833.84
+2025-26,Punjab,Rawalpindi,Health,207554.72
+2025-26,Punjab,Rawalpindi,Agriculture,146354.61
+2025-26,Punjab,Rawalpindi,Construction & Transport,250763.04
+2025-26,Punjab,Multan,Education,250651.1
+2025-26,Punjab,Multan,Health,178500.77
+2025-26,Punjab,Multan,Agriculture,154623.35
+2025-26,Punjab,Multan,Construction & Transport,198905.59
+2025-26,Sindh,Karachi,Education,117019.02
+2025-26,Sindh,Karachi,Health,107351.41
+2025-26,Sindh,Karachi,Agriculture,91336.37
+2025-26,Sindh,Karachi,Construction & Transport,112371.76
+2025-26,Sindh,Hyderabad,Education,128491.67
+2025-26,Sindh,Hyderabad,Health,95035.34
+2025-26,Sindh,Hyderabad,Agriculture,87425.87
+2025-26,Sindh,Hyderabad,Construction & Transport,115073.84
+2025-26,Sindh,Sukkur,Education,122681.59
+2025-26,Sindh,Sukkur,Health,115676.51
+2025-26,Sindh,Sukkur,Agriculture,84839.28
+2025-26,Sindh,Sukkur,Construction & Transport,120391.93
+2025-26,Sindh,Larkana,Education,127766.69
+2025-26,Sindh,Larkana,Health,92060.93
+2025-26,Sindh,Larkana,Agriculture,96248.24
+2025-26,Sindh,Larkana,Construction & Transport,108030.73
+2025-26,Khyber Pakhtunkhwa,Peshawar,Education,76569.53
+2025-26,Khyber Pakhtunkhwa,Peshawar,Health,85644.56
+2025-26,Khyber Pakhtunkhwa,Peshawar,Agriculture,75270.8
+2025-26,Khyber Pakhtunkhwa,Peshawar,Construction & Transport,92771.27
+2025-26,Khyber Pakhtunkhwa,Mardan,Education,82898.29
+2025-26,Khyber Pakhtunkhwa,Mardan,Health,66369.69
+2025-26,Khyber Pakhtunkhwa,Mardan,Agriculture,69695.3
+2025-26,Khyber Pakhtunkhwa,Mardan,Construction & Transport,83390.41
+2025-26,Khyber Pakhtunkhwa,Swat,Education,78075.01
+2025-26,Khyber Pakhtunkhwa,Swat,Health,75370.79
+2025-26,Khyber Pakhtunkhwa,Swat,Agriculture,56819.61
+2025-26,Khyber Pakhtunkhwa,Swat,Construction & Transport,95342.23
+2025-26,Khyber Pakhtunkhwa,Abbottabad,Education,81687.45
+2025-26,Khyber Pakhtunkhwa,Abbottabad,Health,79160.15
+2025-26,Khyber Pakhtunkhwa,Abbottabad,Agriculture,62314.34
+2025-26,Khyber Pakhtunkhwa,Abbottabad,Construction & Transport,85426.22
+2025-26,Balochistan,Quetta,Education,47273.29
+2025-26,Balochistan,Quetta,Health,36182.04
+2025-26,Balochistan,Quetta,Agriculture,39890.71
+2025-26,Balochistan,Quetta,Construction & Transport,48665.58
+2025-26,Balochistan,Gwadar,Education,52766.83
+2025-26,Balochistan,Gwadar,Health,44693.19
+2025-26,Balochistan,Gwadar,Agriculture,35991.92
+2025-26,Balochistan,Gwadar,Construction & Transport,50644.61
+2025-26,Balochistan,Khuzdar,Education,40864.66
+2025-26,Balochistan,Khuzdar,Health,36315.44
+2025-26,Balochistan,Khuzdar,Agriculture,30194.66
+2025-26,Balochistan,Khuzdar,Construction & Transport,42599.32
+2025-26,Balochistan,Sibi,Education,45063.04
+2025-26,Balochistan,Sibi,Health,37218.93
+2025-26,Balochistan,Sibi,Agriculture,38413.29
+2025-26,Balochistan,Sibi,Construction & Transport,43023.1
